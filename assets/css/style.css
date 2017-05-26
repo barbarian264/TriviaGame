@@ -1,0 +1,16 @@
+body {
+
+	background-image: url(../images/musicalanimation.gif);
+
+}
+
+.rect {
+
+	background-color: grey;
+	padding-bottom:15%;
+	width:60%;
+	margin-left:20%;
+    text-align:center;
+    border-style: solid;
+    border-color:black;
+}
